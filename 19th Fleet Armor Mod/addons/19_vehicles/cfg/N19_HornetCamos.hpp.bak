@@ -1,0 +1,52 @@
+class textureSources
+{
+    class hornet_monsoon
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Monsoon";
+        textures[]=
+        {
+			"N19_Armor\data\vehicles\n19_hornet_hull_monsoon_co.paa"
+        };
+    };
+    class hornet_reaper
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Reaper [00]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_hornet_hull_reaper_co.paa"
+        };
+    };
+    class hornet_lancer
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Lancer [01]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_hornet_hull_lancer_co.paa"
+        };
+    };
+    class hornet_foehammer
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Foehammer [02]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_hornet_hull_foehammer_co.paa"
+        };
+    };
+    class hornet_valkyrie
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Valkyrie [03]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_hornet_hull_valkyrie_co.paa"
+        };
+    };
+};
+hiddenSelectionsTextures[]=
+{
+        "N19_Armor\data\vehicles\n19_hornet_hull_monsoon_co.paa"
+};

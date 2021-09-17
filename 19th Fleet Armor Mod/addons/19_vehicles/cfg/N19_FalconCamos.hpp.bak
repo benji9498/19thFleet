@@ -1,0 +1,111 @@
+class textureSources
+{
+    class falcon_monsoon
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Monsoon";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_monsoon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_monsoon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_reaper1
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Reaper [00-1]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_reaper_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_reaper_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_reaper2
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Reaper [00-2]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_reaper2_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_reaper_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_lancer1
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Lancer [01-1]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_lancer_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_lancer_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_lancer2
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Lancer [01-2]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_lancer2_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_lancer_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_foehammer1
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Foehammer [02-1]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_foehammer_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_foehammer_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_foehammer2
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Foehammer [02-2]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_foehammer2_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_foehammer_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_valkyrie1
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Valkyrie [03-1]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_valkyrie_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_valkyrie_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+    class falcon_valkyrie2
+    {
+        author="Mr. Hartley & Skyly Sky";
+        displayName="Valkyrie [03-2]";
+        textures[]=
+        {
+            "N19_Armor\data\vehicles\n19_falcon_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_a_valkyrie2_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_t_valkyrie_co.paa",
+			"N19_Armor\data\vehicles\n19_falcon_c_co.paa"
+        };
+    };
+};
